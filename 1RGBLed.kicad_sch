@@ -4070,7 +4070,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C47262831"
 			(at 44.45 31.75 0)
 			(effects
 				(font
@@ -4079,7 +4079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "8mm"
 			(at 44.45 31.75 0)
 			(effects
 				(font
@@ -4874,6 +4874,24 @@
 			)
 		)
 		(property "Description" "RGB LED, red/green/blue/anode"
+			(at 95.25 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C458749"
+			(at 95.25 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Feeder" "8mm"
 			(at 95.25 36.83 0)
 			(effects
 				(font

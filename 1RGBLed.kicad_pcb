@@ -1147,6 +1147,32 @@
 				)
 			)
 		)
+		(property "MPN" "C458749"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15a30760-b3c1-4a74-8e6d-5ee8477216c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Feeder" "8mm"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b52ea291-cfc4-4faf-9f61-6150ba0d3bac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d8daa401-0bd8-4d43-b203-0070312a4205")
 		(sheetname "/")
@@ -1649,7 +1675,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C99269"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1662,7 +1688,7 @@
 				)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "8mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
